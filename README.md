@@ -1,1 +1,1 @@
-# HANACloud-Workshops
+# SAP HANA Cloud - Workshop Day 1
