@@ -1,1 +1,1 @@
-# HANACloud-Workshop1
+# HANACloud-Workshops
